@@ -547,7 +547,7 @@ void play(int action)
 		player[1] = 2;
 		dealer[0] = 19;
 		dealer[1] = 2;//so they tie
-		cout << "Assign new card value to make them tie\n";
+		//cout << "Assign new card value to make them tie\n";
 		coutcard(player, "player");
 
 		//cout << "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n";
