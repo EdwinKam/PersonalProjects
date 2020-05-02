@@ -1,4 +1,7 @@
-//This program and its content is copy right of Shun Kam © Shun Kam 2019. All right reserved.
+//This program and its content is copy right of Shun Kam Â© Shun Kam 2019. All right reserved.
+//preview only
+//ready to run
+//essential code hidden
 #include<iostream>
 #include<ctime>
 #include<string>
